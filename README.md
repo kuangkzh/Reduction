@@ -1,3 +1,3 @@
 # Reduction
-Reduce a fraction
+Reduce a fraction  
 Calculate ax+by=gcd(a,b)
